@@ -13,7 +13,7 @@ const Hero = () => {
                                 Kien Nguyen
                             </h1>
                             <span className='bg-gradient-to-r from-pink-300 via-slate-500 to-purple-500 bg-clip-text text-4xl tracking-tight text-transparent'>
-                                Frontend Developer
+                                Web Developer
                             </span>
                             <p className='my-2 max-w-xl py-6 font-light tracking-tighter'>{HERO_CONTENT}</p>
                         </div>
